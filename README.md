@@ -11,9 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mrinalk74652075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mrinalk74652075" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mrinal-kanti-sardar-410433175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrinal kanti sardar" height="30" width="40" /></a>
-<a href="https://dribbble.com/crazyprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="crazyprogrammer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
