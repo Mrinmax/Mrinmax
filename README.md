@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Frontend Projects**
 
-- 🌱 I’m currently learning **ReactJS, NextJS & React Native**
+- 🌱 I’m currently learning **ReactJS, NextJS & Devops tools**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on **Frontend Projects & K8s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
