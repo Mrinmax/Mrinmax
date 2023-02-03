@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Frontend Projects**
 
-- 🌱 I’m currently learning **ReactJS, NextJS & Devops**
+- 🌱 I’m currently learning **ReactJS, NextJS, Typescript & Devops**
 
 - 👯 I’m looking to collaborate on **Frontend Projects & K8s**
 
