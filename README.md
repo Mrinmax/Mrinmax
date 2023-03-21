@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmax&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmax" /> </p>
 <img align="right" height="210px" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
-- 🔭 I’m currently working on **Frontend Projects**
+- 🔭 I’m currently working on **Full Stack JS Projects**
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Typescript & Devops**
 
