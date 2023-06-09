@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Typescript & Node JS**
 
-- 👯 I’m looking to collaborate on **Frontend Projects & K8s**
+- 👯 I’m looking to collaborate on **Full Stack Projects & K8s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
